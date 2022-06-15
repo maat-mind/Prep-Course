@@ -1,0 +1,23 @@
+## VARIABLES
+Las variables son como armar una caja de cartón y guardar algo en ella.
+Si lo deseas puedes dejarlo allí, mover la caja con su contenido o sacarlo.
+
+## STRINGS
+Strings son letras, espacios y todo lo que usamos para comunicarnos por medio de texto
+por ejemplo "Hola, ¿Cómo estás?" así como un mensaje en WhatsApp donde puedes escribir
+todo lo que quieras, desde una letra "a" hasta emojis.
+
+## FUNCIONES
+Las funciones son como una hoja de instrucciones que debes seguir para completar algo.
+Por ejemplo una receta para hacer unas galletas, siempre que quieras hacer las galletas
+puedes revisar las instrucciones que te darán por resultado unas deliciosas galletas.
+
+## DECLARACIONES
+Una declaración de tipo IF es como cuando te enfrentas a una situación en donde necesitas
+algo para continuar, por ejemplo Si tu tienes las llaves de tu casa puedes entrar abriendo
+la puerta con la llave, de lo contrario no lo podrás hacer. O cuando quieres jugar algun juego
+pero primero necesitas hacer tus tareas de lo contrario tu mamá se va a molestar.
+
+## BOOLEANOS
+Los booleanos son preguntas que solo pueden ser respondidas con un sí o con un no, ellos no entienden
+ninguna otra respuesta, por ejemplo: ¿Hoy tendiste tu cama por la mañana?

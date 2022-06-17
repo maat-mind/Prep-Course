@@ -1,0 +1,17 @@
+## FOR
+For nos sirve para revisar un conjunto de elementos, pueden ser en totalidad o según una condición 
+como por ejemplo los primeros 5 o 10 de dicho conjunto. Le podemos decir donde inicia el conteo para esta
+condición, hasta donde puede llegar y recordarle que debe contar cada vez que pase un elemento.
+
+## &&
+Estos simbolos significan que necesitamos que se cumplan unas condiciones para continuar con la actividad que
+estabamos realizando, por ejemplo debemos tender la cama y lavarnos los dientes antes de salir de casa, ambas al mismo
+tiempo significan &&, por otro lado 
+
+## || 
+Significa que podemos hacer o una o la otra e igual podremos continuar, inclusive ambas pero definitivamente no ninguna
+en otras palabras debemos cumplir almenos una tarea entre varias para seguir con todo lo demás
+
+## !
+Es como cuando decimos algo de manera ironica, es decir todo lo contrario a lo que decimos: por ejemplo cuando nos caemos
+en frente de otras personas y alguien pregunta ¿Te caíste? y respondes No.

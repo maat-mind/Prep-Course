@@ -1,0 +1,4 @@
+## CALLBACK
+Esta es una forma de usar una función que recibe un parametro de otra, como una carrera por relevos donde
+un equipo trabaja en conjunto realizando su acción y pasando al siguiente miembro un elemento que 
+necesita llevar a la meta.
